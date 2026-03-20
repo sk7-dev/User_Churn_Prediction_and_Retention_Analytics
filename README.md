@@ -418,12 +418,3 @@ pip install pandas numpy matplotlib scipy scikit-learn xgboost jupyter
 
 ---
 
-## Example Repo Purpose Statement
-
-This repository demonstrates an end-to-end data science workflow for churn analysis using Waze behavioral data. It combines exploratory analysis, statistical inference, feature engineering, and supervised machine learning to generate business insights and predict churn risk.
-
----
-
-## Author
-
-Created as a full-stack analytics and machine learning project focused on user churn analysis, model evaluation, and business-oriented recommendation development.
